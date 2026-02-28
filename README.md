@@ -73,7 +73,17 @@ Vehicle colors: [rage.mp Vehicle Colors](https://wiki.rage.mp/index.php?title=Ve
 ### `/screenshottattoos`
 Captures every tattoo for male + female. Ped gets stripped to minimal clothing so tattoos are visible, camera auto-focuses on the correct body zone.
 
-## Output
+## Example Output
+
+<p>
+<img src="https://r2.fivemanage.com/xtkw44JA8OhwP96WybYNd/whrzRFpgN3tg.png" width="128">
+<img src="https://r2.fivemanage.com/xtkw44JA8OhwP96WybYNd/jgrO5H0398hC.png" width="128">
+<img src="https://r2.fivemanage.com/xtkw44JA8OhwP96WybYNd/yAXnxmgA91Br.png" width="128">
+<img src="https://r2.fivemanage.com/xtkw44JA8OhwP96WybYNd/fjoJ2ZO9YggK.png" width="128">
+<img src="https://r2.fivemanage.com/xtkw44JA8OhwP96WybYNd/E7IBJxmYdfhE.png" width="128">
+</p>
+
+## File Structure
 
 Saved to `resources/fivem-greenscreener/images/`:
 ```
